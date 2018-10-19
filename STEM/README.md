@@ -4,7 +4,7 @@
 
 ### Create an input file using Excel
 First column: list of genes
-Second column - x columns: timepoints that contain rpkm cutoff of 5 (d0, d3, d6, etc.)
+Second column - x columns: timepoints that contain an rpkm cutoff of 5 (d0, d3, d6, etc.)
 
 - Save excel file as .txt tab delimited 
 ### STEM commands
@@ -15,4 +15,4 @@ Second column - x columns: timepoints that contain rpkm cutoff of 5 (d0, d3, d6,
 3. For STEM Clustering Method, choose 50 and 2
 4. Execute
 ```
-The colored graphs are reprsentative of statistically significant genes.
+The colored graphs are representative of statistically significant genes.
