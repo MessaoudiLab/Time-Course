@@ -55,7 +55,7 @@ Required parameters
 Optional parameters
 1. **time.col**: column number in edesign containing time values; default is first column
 2. **repl.col**: column number in edesign containing coding for replicate arrays; default is second column
-3. **groups.col**: column numbers in edesign indicating the codinf for each experimental group
+3. **groups.col**: column numbers in edesign indicating the indexing for each experimental group
 
 ## Step 3: Finding Significant Genes
 ```
