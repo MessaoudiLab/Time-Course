@@ -21,7 +21,7 @@ The experimental design object will provide the information required to construc
 
 View "edesign.abiotic.txt" in Excel for an example
 
-## Installing
+## Installation
 MaSigPro can be obtained with the following commands:
 
 ```
